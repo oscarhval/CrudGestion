@@ -1,0 +1,28 @@
+body {
+  background-color: #000 !important;
+  color: #fff !important;
+}
+
+h1, h2, h3
+p, span, td, th {
+  color: #fff !important;
+}
+
+p.form-control-plaintext{
+	color: #fff;
+}
+
+
+input, select, textarea {
+  background-color: #000 !important;
+  border: 1px solid #fff !important;
+  color: #fff !important;
+  width: 50% !important;
+}
+.table {
+  border: 3px solid #fff !important;
+  clip-path: inset(0 round 3px);
+}
+.link-blue{
+	color:#0000FF
+	}

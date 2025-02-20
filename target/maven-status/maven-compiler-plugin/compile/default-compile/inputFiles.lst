@@ -1,0 +1,16 @@
+C:\Users\Usuario\Documents\workspace-spring-tool-suite-4-4.27.0.RELEASE\CrudGestion\src\main\java\com\oscarh\gestion\config\SecurityConfig.java
+C:\Users\Usuario\Documents\workspace-spring-tool-suite-4-4.27.0.RELEASE\CrudGestion\src\main\java\com\oscarh\gestion\controller\HomeController.java
+C:\Users\Usuario\Documents\workspace-spring-tool-suite-4-4.27.0.RELEASE\CrudGestion\src\main\java\com\oscarh\gestion\controller\LoginController.java
+C:\Users\Usuario\Documents\workspace-spring-tool-suite-4-4.27.0.RELEASE\CrudGestion\src\main\java\com\oscarh\gestion\controller\ProyectoController.java
+C:\Users\Usuario\Documents\workspace-spring-tool-suite-4-4.27.0.RELEASE\CrudGestion\src\main\java\com\oscarh\gestion\controller\RegisterController.java
+C:\Users\Usuario\Documents\workspace-spring-tool-suite-4-4.27.0.RELEASE\CrudGestion\src\main\java\com\oscarh\gestion\controller\TareaController.java
+C:\Users\Usuario\Documents\workspace-spring-tool-suite-4-4.27.0.RELEASE\CrudGestion\src\main\java\com\oscarh\gestion\CrudGestionApplication.java
+C:\Users\Usuario\Documents\workspace-spring-tool-suite-4-4.27.0.RELEASE\CrudGestion\src\main\java\com\oscarh\gestion\model\EstadoProyecto.java
+C:\Users\Usuario\Documents\workspace-spring-tool-suite-4-4.27.0.RELEASE\CrudGestion\src\main\java\com\oscarh\gestion\model\EstadoTarea.java
+C:\Users\Usuario\Documents\workspace-spring-tool-suite-4-4.27.0.RELEASE\CrudGestion\src\main\java\com\oscarh\gestion\model\Proyecto.java
+C:\Users\Usuario\Documents\workspace-spring-tool-suite-4-4.27.0.RELEASE\CrudGestion\src\main\java\com\oscarh\gestion\model\Tarea.java
+C:\Users\Usuario\Documents\workspace-spring-tool-suite-4-4.27.0.RELEASE\CrudGestion\src\main\java\com\oscarh\gestion\model\Usuario.java
+C:\Users\Usuario\Documents\workspace-spring-tool-suite-4-4.27.0.RELEASE\CrudGestion\src\main\java\com\oscarh\gestion\repository\ProyectoRepository.java
+C:\Users\Usuario\Documents\workspace-spring-tool-suite-4-4.27.0.RELEASE\CrudGestion\src\main\java\com\oscarh\gestion\repository\TareaRepository.java
+C:\Users\Usuario\Documents\workspace-spring-tool-suite-4-4.27.0.RELEASE\CrudGestion\src\main\java\com\oscarh\gestion\repository\UsuarioRepository.java
+C:\Users\Usuario\Documents\workspace-spring-tool-suite-4-4.27.0.RELEASE\CrudGestion\src\main\java\com\oscarh\gestion\service\UsuarioDetailsService.java
